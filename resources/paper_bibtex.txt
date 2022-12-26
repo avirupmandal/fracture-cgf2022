@@ -1,0 +1,11 @@
+@article{https://doi.org/10.1111/cgf.14725,
+author = {Mandal, A. and Chaudhuri, P. and Chaudhuri, S.},
+title = {Remeshing-free Graph-based Finite Element Method for Fracture Simulation},
+journal = {Computer Graphics Forum},
+volume = {n/a},
+number = {n/a},
+pages = {},
+doi = {https://doi.org/10.1111/cgf.14725},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14725},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14725},
+}
