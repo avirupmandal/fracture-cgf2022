@@ -2,10 +2,13 @@
 author = {Mandal, A. and Chaudhuri, P. and Chaudhuri, S.},
 title = {Remeshing-free Graph-based Finite Element Method for Fracture Simulation},
 journal = {Computer Graphics Forum},
-volume = {n/a},
-number = {n/a},
-pages = {},
+volume = {42},
+number = {1},
+pages = {117-134},
+keywords = {animation, physically based animation, natural phenomena animation, modelling, physically based modelling},
 doi = {https://doi.org/10.1111/cgf.14725},
 url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14725},
 eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14725},
+abstract = {Abstract Fracture produces new mesh fragments that introduce additional degrees of freedom in the system dynamics. Existing finite element method (FEM) based solutions suffer from increasing computational cost as the system matrix size increases. We solve this problem by presenting a graph-based FEM model for fracture simulation that is remeshing-free and easily scales to high-resolution meshes. Our algorithm models fracture on the graph induced in a volumetric mesh with tetrahedral elements. We relabel the edges of the graph using a computed damage variable to initialize and propagate fracture. We prove that non-linear, hyper-elastic strain energy density is expressible entirely in terms of the edge lengths of the induced graph. This allows us to reformulate the system dynamics for the relabelled graph without changing the size of the system dynamics matrix and thus prevents the computational cost from blowing up. The fractured surface has to be reconstructed explicitly only for visualization purposes. We simulate standard laboratory experiments from structural mechanics and compare the results with corresponding real-world experiments. We fracture objects made of a variety of brittle and ductile materials, and show that our technique offers stability and speed that is unmatched in current literature.},
+year = {2023}
 }
